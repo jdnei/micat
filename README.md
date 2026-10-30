@@ -28,14 +28,14 @@ MiCat迷途猫主打低价高性价比，月付套餐最低3.8元起，提供10G
 
 ## 📊 性能实测与分析
 #### 1.1电信晚高峰测速表现
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/micat/blob/main/micat/438753904590cmct.jpg?raw=ture)</br>
 #### 1.2联通晚高峰测速表现
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/micat/blob/main/micat/9857893247598cmcu.jpg?raw=ture)</br>
 #### 1.3移动晚高峰测速表现
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/micat/blob/main/micat/342573475cmmc.jpg?raw=ture)</br>
 #### 2.1AI解锁报告
-![image](?raw=ture)</br>  
+![image](https://github.com/jdnei/micat/blob/main/micat/4398527893475892ai.jpg?raw=ture)</br>  
 #### 2.2流媒体解锁报告
-![image](?raw=ture)</br> 
+![image](https://github.com/jdnei/micat/blob/main/micat/4527904350980test.png?raw=ture)</br> 
 #### 3.落地入口分析
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/micat/blob/main/micat/8432570345790ana.jpg?raw=ture)</br>
