@@ -1,7 +1,7 @@
 
 # MiCat迷途猫机场官方地址(2026年11月1日更新)
 MiCat迷途猫机场官网地址</br>
-最新地址：[micat.cyou](https://micat.cyou/V8p3Nq6R?invite_code=VQzMeUJd)</br>
+最新地址：[micat.cyou](https://to.iix.im/mi01)</br>
 官方地址01：[micat-cn.top](https://micat-cn.top/)</br>
 官方地址02：[zsfcn.top](https://zsfcn.top/)</br>
 
